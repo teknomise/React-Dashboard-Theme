@@ -4,7 +4,7 @@ A React project with Vite, awesome dashboard theme
 
 <p align="center">
   <a href="https://effective-potato-pjj77jvxrjwh694g-4173.app.github.dev/">
-    <img src="https://ik.imagekit.io/teknopromo/images/original-1162fa8b6d8ea344cdcd9caa2af64a5b.jpg?updatedAt=1709142121553" height="300px">
+    <img src="https://ik.imagekit.io/teknopromo/images/original-1162fa8b6d8ea344cdcd9caa2af64a5b.jpg?updatedAt=1709142121553" height="500px">
   </a>
 </p>
 
