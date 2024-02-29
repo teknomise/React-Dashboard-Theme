@@ -2,6 +2,12 @@
 
 A React project with Vite, awesome dashboard theme
 
+<p align="center">
+  <a href="https://570c0e61.react-dashboard-theme.pages.dev" target="_blank">
+    <img src="https://ik.imagekit.io/teknopromo/images/original-1162fa8b6d8ea344cdcd9caa2af64a5b.jpg?updatedAt=1709142121553" height="500px">
+  </a>
+</p>
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
